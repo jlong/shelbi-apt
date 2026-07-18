@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 15 Jul 2026 15:47:16 +0000
+Date: Sat, 18 Jul 2026 04:21:24 +0000
 Description: Shelbi APT repository
 Label: Shelbi
 Origin: Shelbi
 Suite: stable
 MD5Sum:
- aaa6813b6b72151a20a5c5135d46eb7f              171 Release
- 6988ef851b07164a0290073cf524ca75             3961 main/binary-amd64/Packages
- ccc2f9f0940e5ef71f90b9ba8d69b9a3             1432 main/binary-amd64/Packages.gz
+ d3750c260d9a2fa6659dee38c2f5acba              171 Release
+ 20e3a112d24123a0bf82badd645f19ba             4622 main/binary-amd64/Packages
+ 9ee238d2ff48a967435d5b922132bd10             1620 main/binary-amd64/Packages.gz
 SHA1:
- 677bd6214388503debd0a6609acdaf2bf13369da              171 Release
- 85c1a69a2b6c7dfe13555578809eb4046d5fd901             3961 main/binary-amd64/Packages
- abcc966a78e6adac2058c0ce815558f221d52bc3             1432 main/binary-amd64/Packages.gz
+ 503a41e2dd06e319bc5162eca02c2b3f3c6dc418              171 Release
+ 731b3762e626e5676db70502b98e6ae8d1ffadb9             4622 main/binary-amd64/Packages
+ 65ce491bde59a6684a87551772ea3256a6487b30             1620 main/binary-amd64/Packages.gz
 SHA256:
- f6d45d96525a353aef9721979e6d459ce0c7fc710c1121fff67a2cd5aaaeff12              171 Release
- 6e79856f4d771701a9d28c969a414ff0bb422874bf454666966d1df9b6e3ad79             3961 main/binary-amd64/Packages
- e8f2b8b0a0f118962332eaee72f3d22d2d2cdcfa14ef893febe407967f3e50f8             1432 main/binary-amd64/Packages.gz
+ c99d9d7f57b3d46ab7bd48e318b99c4e58548c91b25fab6497293853384dbf5b              171 Release
+ be2ee2e953c53642968964855279b7524e8be3f70ef00303f8be876716707e13             4622 main/binary-amd64/Packages
+ a44cd38275741e8fb6e9cb5ccb80d1afa791242e3a9c454a123887c158b792f8             1620 main/binary-amd64/Packages.gz
 SHA512:
- f3a1ac82354282d57770a24abae62e4fd9788671551cb37c78ddc5b5df41757dfcb4a10b3836b2dd21cae16ae77eee45c875d8bf9eb16bac2c04d3d49f0d9091              171 Release
- f786ec3b09d0097103845d4de6bd4e949027c8393aaeb929bf858f3ed9252add09a5a4f4f98f98ef8a4b6d09ee5c6c532e73e3b7e33a3e7fc9c864979f87d9f1             3961 main/binary-amd64/Packages
- 2f4bf58abef5a316fd644454b1fa160304c72eac54bb4649bb3c85347ec3c7cd711ab4f84cd9309a72a329bf084de3b25683bd7e4f4e4ab4b59ccf964568e15b             1432 main/binary-amd64/Packages.gz
+ 0124d93e0c78974a750b64ce8bd5a30e73915b1db352809359d932ddf3d23e18e9ff61f95431f8adfe797be47f7de1fc66e8635f7cbe4c70cc3b9e5ea8bda55e              171 Release
+ 8b5221c42baf99ccb57346055519231d277119444e1aab2e92b46574075516bc0f0c2f7a476cfee845108e03f77d1e66d9e6a360a31b397d1a137db83717b0a0             4622 main/binary-amd64/Packages
+ 91ab4bd1527459609330e7e77a358a6c2cdb763ff555fd010bc3962c2a7849b049a6f29b74f64d45194767c962a4a8d2e41b9a1eb070eb923cb3d04a91d0605e             1620 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQT+b9e8Mwl8bC6nX1PheyrLDOEFUAUCalerhAAKCRDheyrLDOEF
-UC9GAQD0ejj+os1uv6S0I1ijBbVlNKf/tE2iKfh0iif9DjXwswEAiKViJuFrayNS
-OfNu5Iuc2s22wHGrRge9KAgOG9NcMQg=
-=4HXc
+iHUEARYKAB0WIQT+b9e8Mwl8bC6nX1PheyrLDOEFUAUCalr/RAAKCRDheyrLDOEF
+UCCGAP49WUS37v3oEZEA9uXNoHG0xoMBidSURCnH9Onmqe7EBQD/QuDcgINiNNOx
+6SVj2/Mtt8g/YFSyXJZc2e+e84ceaA8=
+=OgnT
 -----END PGP SIGNATURE-----

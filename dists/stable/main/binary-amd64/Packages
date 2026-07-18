@@ -100,3 +100,20 @@ SHA512: 627196b2c86e626dd687f86a51e47bb32f05c9f3e763cef76c4313301de48bf03b31f85b
 Homepage: https://github.com/jlong/shelbi
 Description: Open-source agent orchestrator built on tmux.
 
+Package: shelbi
+Architecture: amd64
+Version: 0.6.0
+Priority: optional
+Section: devel
+Maintainer: John W. Long <john@32pixels.co>
+Installed-Size: 10623
+Depends: tmux (>= 3.2), git, openssh-client
+Filename: pool/main/s/shelbi/shelbi_0.6.0_amd64.deb
+Size: 4109700
+MD5sum: 8691397f24c123bddbf1e65d918a4091
+SHA1: 6354bb348f64b93b8c3bc89d870351c71997d1ab
+SHA256: 16e3eade797b1eea8e7d78ffccc0bfd713d8312d9db13e7e601cd3a0428bfbfb
+SHA512: 4368c719c17b0e55a183b779b42c3b6dff54a7830153b34f11a6007dbb659617534f0887d95558695c61de879b96e0d936e744c8bdf37ff6bc21583e957304fe
+Homepage: https://github.com/jlong/shelbi
+Description: Open-source agent orchestrator built on tmux.
+
