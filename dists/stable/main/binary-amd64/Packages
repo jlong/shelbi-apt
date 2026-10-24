@@ -34,6 +34,23 @@ Description: Open-source agent orchestrator built on tmux.
 
 Package: shelbi
 Architecture: amd64
+Version: 0.11.0
+Priority: optional
+Section: devel
+Maintainer: John W. Long <john@johnwlong.com>
+Installed-Size: 17898
+Depends: git, openssh-client
+Filename: pool/main/s/shelbi/shelbi_0.11.0_amd64.deb
+Size: 7022822
+MD5sum: 6c51dcfcc41e5b63192453cc3c121cd9
+SHA1: c1c61d1b52a5b8767623833a771ce3bc0b8ad909
+SHA256: 7cc4bdb76c84c659f5b780aa65cfa0b7432fbe721026e26fa7a38b237301cddd
+SHA512: 58fb89ed1f36f1d963e65ca0d15aaafc7ba98b796d229e0a4e8b5e3f749a967c4ac5df4535ae5841b04b0762aa387acad4bc30c967b46613ad223ba60b748b53
+Homepage: https://github.com/jlong/shelbi
+Description: Open-source agent orchestrator for parallel coding agents.
+
+Package: shelbi
+Architecture: amd64
 Version: 0.2.0
 Priority: optional
 Section: devel
