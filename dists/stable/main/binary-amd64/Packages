@@ -85,6 +85,23 @@ Description: Open-source agent orchestrator for parallel coding agents.
 
 Package: shelbi
 Architecture: amd64
+Version: 0.13.1
+Priority: optional
+Section: devel
+Maintainer: John W. Long <john@johnwlong.com>
+Installed-Size: 21912
+Depends: git, openssh-client
+Filename: pool/main/s/shelbi/shelbi_0.13.1_amd64.deb
+Size: 8807728
+MD5sum: 76718ed2e0589232599be16835102b9b
+SHA1: cbdd71222ae6dd80633316529ff3af55630829c1
+SHA256: d28ce5f4abf2134fa7ede707cf2ee491854a06d4f9754e1539d71fa6d8f8d67e
+SHA512: deeb259526eb452d932587cac53f8bf0e8b05101719b459c2fa699504ee6e0705316beb8ee0eb30bd20dde554fa161b009b009e11097ccf7c420f676ec104f67
+Homepage: https://github.com/jlong/shelbi
+Description: Open-source agent orchestrator for parallel coding agents.
+
+Package: shelbi
+Architecture: amd64
 Version: 0.2.0
 Priority: optional
 Section: devel
