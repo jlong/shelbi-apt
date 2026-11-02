@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 30 Oct 2026 14:53:06 +0000
+Date: Mon, 02 Nov 2026 13:14:59 +0000
 Description: Shelbi APT repository
 Label: Shelbi
 Origin: Shelbi
 Suite: stable
 MD5Sum:
- 7aee1524c170052068aafba3d58f6112              171 Release
- 527c54235892d137ce42eb44c8f562b6             9928 main/binary-amd64/Packages
- 531a7e53ecaa09155253bcfae8a1d1ae             3131 main/binary-amd64/Packages.gz
+ 2fc9be58f60b67a8337f1128e1ae9b42              171 Release
+ 2d948b86c2a6471e763ddac7b78d5d04            10591 main/binary-amd64/Packages
+ 7eb7b441253773197b5ae2b596a0e941             3316 main/binary-amd64/Packages.gz
 SHA1:
- f70975e286e87d6ab4efafab118952dadf942504              171 Release
- 899abaf1f9276ce59cca6d4d576976eccab7d6c3             9928 main/binary-amd64/Packages
- a4029d8eda323afd34740cc77ecfbf3053ab97d5             3131 main/binary-amd64/Packages.gz
+ 977030af361e3f62aaf60846e2f5fa1a1f27b655              171 Release
+ 731f0ec3d7faf98d3ac284534cc13e080b9fe37b            10591 main/binary-amd64/Packages
+ 873d44842f2b34b7e2e51cf053b1b376297bcc94             3316 main/binary-amd64/Packages.gz
 SHA256:
- 719168700636fe8030123ce9e2b40a175ae5980bc6258e85db6a91dea0e2320b              171 Release
- e0c9d231d5dfab5d6e829e6250a4eba65f6d052ed023fb0380b832fb14319379             9928 main/binary-amd64/Packages
- c331b44679a747cde2eb5f37a3d3a887cbb14cabc2f353303a58b755f51a0bf4             3131 main/binary-amd64/Packages.gz
+ a259fd82f58988eba3430b0e2718c94cdc71aec047d73718326ecfb9a3347237              171 Release
+ e15678a243ab4671aeef634756df1eefb49ec3f76b29495ac396fab24d90b0d1            10591 main/binary-amd64/Packages
+ 7692c12742daad6251cfb3d1bf870128128eeac8ddfa722402f18cb291b1f14a             3316 main/binary-amd64/Packages.gz
 SHA512:
- cd7c3288a06f6ed9868f9574ea995b60ae335de9b56c446cb2476b68d70e61cdcef99a9e0932ff462bd4153fdfed92f3f43712b58f52bb73de29cca9bc64a82c              171 Release
- 6b4d116821cb69fddf3fcb6085d5015c4051be4dac062677a569f8002ea6360dc65461463c3c7139c5e03eb07a517d2a235fc61ff6e3d0a8e0f9d6bc95d471f4             9928 main/binary-amd64/Packages
- c7b5330353badc8280cc7acca6acde6c392a3498a1d3409e2402b1b6c0bf3e6268f309415e20487a7bf3d3393f988da5e178fe0ef087f3c7ddd13329c3beae78             3131 main/binary-amd64/Packages.gz
+ 85a251011879d2daf92ab86b1519b06d63c6a7c5462aac73218ef47ab71c5526fec9c1f6e89479f51f7ce803843edb568b3eff73964ffe0855ebf666ee8c42ab              171 Release
+ 62b7c496a2969bea02df6bdb20ac6764f0415038728e17b64b749347d3a6b6d17a7be1385a9cae9f82b50ba550016425b9a5a4162b8e8792a903c4864d7c2d5b            10591 main/binary-amd64/Packages
+ e6452572e27c1ec0209f1d5da6b13982051013d79358ec8dd27d71e81832249158e8301d361e749e0279998d426075ef28d4a8aa1010907a29e9a6ac05bd429b             3316 main/binary-amd64/Packages.gz
